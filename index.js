@@ -160,7 +160,7 @@
 
   const LOGO_URL =
     "https://ibb.co.com/wrRhYmHX";
-  const LABEL = "your bro ";
+  const LABEL = "Prime X ";
   const STORAGE_KEY = "qx999_settings_v1";
   const TAP_REQUIRED = 3;
   const TAP_SETTLE_MS = 380;
