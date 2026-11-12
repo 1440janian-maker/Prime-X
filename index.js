@@ -159,7 +159,7 @@
     window.__QX999_ACTIVE__ = true;
 
   const LOGO_URL =
-    "https://ibb.co.com/wrRhYmHX";
+    "https://i.ibb.co/395wVhkN/file-133.jpg";
   const LABEL = "Prime X ";
   const STORAGE_KEY = "qx999_settings_v1";
   const TAP_REQUIRED = 3;
